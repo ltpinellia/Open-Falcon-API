@@ -1158,7 +1158,7 @@ if __name__ == "__main__":
     #print(ofalcon.unbind_host_on_hostgroup(35,23))
 
     ##通过hostgroupid更新hostgroup信息
-    print(ofalcon.update_hostgroup(17,"testt"))
+    #print(ofalcon.update_hostgroup(17,"testt"))
 
     ##通过nodataid删除nodata
     #print(ofalcon.delete_nodata_by_nodataid(10))
